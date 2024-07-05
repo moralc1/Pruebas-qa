@@ -5,6 +5,9 @@
   "url": "https://test-qa.inlaze.com/panel",
   "tests": [{
     "id": "d97774b7-da40-42d7-8f66-994c0eaf70a2",
+
+    //Ingresamos datos con los parametros requereridos por el cliente
+    
     "name": "1-Registro de usuario exitosamente.",
     "commands": [{
       "id": "782861ad-4d98-4f16-a290-b32701ed7729",
@@ -57,7 +60,7 @@
         ["xpath=//input[@id='full-name']", "xpath:attributes"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "Jaime ruiz"
+      "value": "Jaime ruiz" // Cambiar este usuario cuando sea necesario
     }, {
       "id": "a797dbcc-d3fa-47e3-b6a9-63b858f7c991",
       "comment": "",
@@ -81,7 +84,7 @@
         ["xpath=//input[@id='email']", "xpath:attributes"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "jruiz@gmail.com"
+      "value": "jruiz@gmail.com" // Cambiar este dato cuando sea necesario
     }, {
       "id": "92dbe74c-4e46-41ad-a3b1-ce11e21a45a5",
       "comment": "",
@@ -105,7 +108,7 @@
         ["xpath=//app-password[@id='password']/div/input", "xpath:idRelative"],
         ["xpath=//app-password/div/input", "xpath:position"]
       ],
-      "value": "Ruiz2024+"
+      "value": "Ruiz2024+" // Cambiar este dato cuando sea necesario
     }, {
       "id": "ed4bb1cf-e3f7-4814-9f08-72d4b848bfdd",
       "comment": "",
@@ -129,7 +132,7 @@
         ["xpath=//app-password[@id='confirm-password']/div/input", "xpath:idRelative"],
         ["xpath=//div[4]/app-password/div/input", "xpath:position"]
       ],
-      "value": "Ruiz2024+"
+      "value": "Ruiz2024+" // Cambiar este dato cuando sea necesario
     }, {
       "id": "49de0966-9f7e-4c81-91a6-de4fac628001",
       "comment": "",
@@ -206,7 +209,7 @@
         ["xpath=//input[@id='full-name']", "xpath:attributes"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "Jorge"
+      "value": "Jorge" // Cambiar este dato cuando sea necesario
     }, {
       "id": "a4c8be79-8524-4b9f-9a38-384f645350ab",
       "comment": "",
@@ -230,7 +233,7 @@
         ["xpath=//input[@id='email']", "xpath:attributes"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "cgomez@gmail.com"
+      "value": "cgomez@gmail.com" // Cambiar este dato cuando sea necesario
     }, {
       "id": "c8f901a9-b27f-4b33-b022-f271e24a9164",
       "comment": "",
@@ -254,7 +257,7 @@
         ["xpath=//app-password[@id='password']/div/input", "xpath:idRelative"],
         ["xpath=//app-password/div/input", "xpath:position"]
       ],
-      "value": "Morales2024+"
+      "value": "Morales2024+" // Cambiar este dato cuando sea necesario
     }, {
       "id": "ef2637cf-6994-4960-bcba-108a38c12ec8",
       "comment": "",
@@ -278,7 +281,7 @@
         ["xpath=//app-password[@id='confirm-password']/div/input", "xpath:idRelative"],
         ["xpath=//div[4]/app-password/div/input", "xpath:position"]
       ],
-      "value": "Morales2024+"
+      "value": "Morales2024+" // Cambiar este dato cuando sea necesario
     }, {
       "id": "276d9cdf-152d-4feb-981c-76b4816c3bdc",
       "comment": "",
@@ -288,7 +291,7 @@
         ["css=.flex-col:nth-child(2)", "css:finder"],
         ["xpath=//form", "xpath:position"]
       ],
-      "value": ""
+      "value": "" // Cambiar este dato cuando sea necesario
     }, {
       "id": "6bcf0826-dc81-450f-a67a-e1baa862559b",
       "comment": "",
@@ -298,7 +301,7 @@
         ["css=.flex-col:nth-child(2)", "css:finder"],
         ["xpath=//form", "xpath:position"]
       ],
-      "value": ""
+      "value": "" // Cambiar este dato cuando sea necesario
     }]
   }, {
     "id": "afdce441-ce8d-471e-a5da-681d051a39e8",
@@ -402,7 +405,7 @@
         ["xpath=//app-password[@id='password']/div/input", "xpath:idRelative"],
         ["xpath=//app-password/div/input", "xpath:position"]
       ],
-      "value": "Cdiaz2024+"
+      "value": "Cdiaz2024+" // Cambiar este dato cuando sea necesario
     }, {
       "id": "4cfa18b1-7396-404b-83ca-003d1fba2e43",
       "comment": "",
@@ -426,7 +429,7 @@
         ["xpath=//app-password[@id='confirm-password']/div/input", "xpath:idRelative"],
         ["xpath=//div[4]/app-password/div/input", "xpath:position"]
       ],
-      "value": "Cdiaz2024+"
+      "value": "Cdiaz2024+" // Cambiar este dato cuando sea necesario
     }, {
       "id": "1963f4df-f7cc-4c82-9c54-1fadb24af0de",
       "comment": "",
@@ -493,7 +496,7 @@
         ["xpath=//input[@id='full-name']", "xpath:attributes"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "Camilo diaz"
+      "value": "Camilo diaz" // Cambiar este dato cuando sea necesario
     }, {
       "id": "993492f5-65b2-4d73-8c6d-ae06552855ac",
       "comment": "",
@@ -517,7 +520,7 @@
         ["xpath=//input[@id='email']", "xpath:attributes"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "cgomez@gmail.com"
+      "value": "cgomez@gmail.com" // Cambiar este dato cuando sea necesario
     }, {
       "id": "9044a003-4998-422d-a0e3-9495614ddc09",
       "comment": "",
@@ -576,7 +579,7 @@
         ["xpath=//app-password[@id='confirm-password']/div/input", "xpath:idRelative"],
         ["xpath=//div[4]/app-password/div/input", "xpath:position"]
       ],
-      "value": "Cdiaz2023+"
+      "value": "Cdiaz2023+" // Cambiar este dato cuando sea necesario
     }, {
       "id": "f63e5950-6268-45a5-b4af-fdd24d4e9944",
       "comment": "",
@@ -655,7 +658,7 @@
         ["xpath=//input[@id='full-name']", "xpath:attributes"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "Sonia Nova"
+      "value": "Sonia Nova" // Cambiar este dato cuando sea necesario
     }, {
       "id": "233c6653-c580-4cab-8d32-14b391756c49",
       "comment": "",
@@ -679,7 +682,7 @@
         ["xpath=//input[@id='email']", "xpath:attributes"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "cdiaz@123.com"
+      "value": "cdiaz@123.com" // Cambiar este dato cuando sea necesario
     }, {
       "id": "da722c69-5fae-405e-9ae5-1b61e8a0e679",
       "comment": "",
@@ -703,7 +706,7 @@
         ["xpath=//app-password[@id='password']/div/input", "xpath:idRelative"],
         ["xpath=//app-password/div/input", "xpath:position"]
       ],
-      "value": "Snova2'24+"
+      "value": "Snova2'24+" // Cambiar este dato cuando sea necesario
     }, {
       "id": "3f0550f8-9c18-4345-9f94-81ba6c8cff12",
       "comment": "",
@@ -891,7 +894,7 @@
         ["xpath=//input[@id='full-name']", "xpath:attributes"],
         ["xpath=//input", "xpath:position"]
       ],
-      "value": "Alejandra Perez"
+      "value": "Alejandra Perez"// Cambiar este dato cuando sea necesario
     }, {
       "id": "7ac0f193-54f0-4b3a-ad18-975c82c4d268",
       "comment": "",
@@ -915,7 +918,7 @@
         ["xpath=//input[@id='email']", "xpath:attributes"],
         ["xpath=//div[2]/input", "xpath:position"]
       ],
-      "value": "Aperez@gmail.com"
+      "value": "Aperez@gmail.com" // Cambiar este dato cuando sea necesario
     }, {
       "id": "6aa5899b-0dab-48b5-8a4a-9e22bd0af464",
       "comment": "",
@@ -939,7 +942,7 @@
         ["xpath=//app-password[@id='confirm-password']/div/input", "xpath:idRelative"],
         ["xpath=//div[4]/app-password/div/input", "xpath:position"]
       ],
-      "value": "Aperez2024+"
+      "value": "Aperez2024+" // Cambiar este dato cuando sea necesario
     }, {
       "id": "f5f05415-3543-4492-bc8d-a3328241a78a",
       "comment": "",
